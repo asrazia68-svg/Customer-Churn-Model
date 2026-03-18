@@ -83,12 +83,6 @@ The goal is to **identify at-risk customers** and help the business retain them 
 
 These visualizations help understand which features most influence customer churn.
 
----
 
-## ⚡ How to Run
-
-1. Clone the repository:
-```bash
-git clone https://github.com/yourusername/customer-churn.git
 
 
